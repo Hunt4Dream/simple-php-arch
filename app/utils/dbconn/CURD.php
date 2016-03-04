@@ -8,7 +8,7 @@
  */
 class CURD {
     private $conn;
-    //单次提交的sql数量
+    //SQL number of single commit
     private static $count = 1000;
 
     public function __set($name, $value) {

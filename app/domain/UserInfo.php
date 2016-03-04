@@ -25,6 +25,7 @@ class UserInfo
 //                    echo $key, '==>',$this->$key, '==>', $array[$key], ' ', PHP_EOL;
                 }
             }
+            unset($value);
         }
         return $this;
    }

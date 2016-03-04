@@ -7,7 +7,7 @@
    		 'adapter'     => 'Mysql',
         'host'        => 'localhost',
         'username'    => 'root',
-        'password'    => 'xiao19930110',
+        'password'    => 'xiao',
         'dbname'      => 'blog',
         'charset'     => 'utf8',
    		)
